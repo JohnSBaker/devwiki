@@ -1,7 +1,7 @@
 # John Baker's Software Development Wiki
 
 * Server-side Development
-  * Java
+  * [Java](java/java.md)
   * Spring
   * SQL Database
   * NoSQL Database
